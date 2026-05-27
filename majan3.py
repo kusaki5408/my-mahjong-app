@@ -7,7 +7,7 @@ import streamlit as st
 load_dotenv()
 
 st.set_page_config(page_title="AI麻雀戦術論クイズ", page_icon="🧠", layout="centered")
-st.title("🀄️ AIが考える 麻雀最強理論クイズ！")
+st.title("🀄️ AIが考える　麻雀最強理論クイズ！")
 st.caption("最新AIはこう考えます！")
 st.write("---")
 
